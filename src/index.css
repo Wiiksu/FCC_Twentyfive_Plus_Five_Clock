@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  background-color: #7dd3fc;
+}
+
+@font-face {
+  font-family: orbitron;
+  src: url(/Orbitron-Regular.ttf);
+}
+
+@font-face {
+  font-family: orbitron-bold;
+  src: url(/Orbitron-ExtraBold.ttf);
+}
